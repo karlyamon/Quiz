@@ -6,28 +6,46 @@ let perguntasFeitas = [];
 const perguntas = [
     //Pergunta 0
     {
-     pergunta:"Qual dessas linguagens não é considerada uma linguagem de programação?",
-     respostas: ["PHP","Javascript","C++","HTML"],
+     pergunta:"Qual dessas linguagens não é considerada uma linguagem de programação ?",
+     respostas: ["PHP","JavaScript","C++","HTML"],
      correta: "resp3"
     },
     //Pergunta 1
     {
-     pergunta:"Em que ano o Brasil foi descoberto?",
-     respostas: ["1498","1500","1375","1828"],
-     correta: "resp1"
+     pergunta:"O que significa a sigla CSS ?",
+     respostas: ["Cascading Style Sheets","Cascat Style Sheets","Cand Sheet Style","Casting Show Strike"],
+     correta: "resp0"
     },
  
      //Pergunta 2
     {
-     pergunta:"O que significa a sigla HTML?",
+     pergunta:"O que significa a sigla HTML ?",
      respostas: ["Hyper Tonto Maluco Legal","Hyper Text Markup Language","Hey Trade More Language","Hyper Text Mark Lang"],
      correta: "resp1"
     },
      //Pergunta 3
     {
-     pergunta:"Quais dessas linguagens é considerada uma linguagem de marcação?",
+     pergunta:"Qual dessas linguagens é considerada uma linguagem de marcação ?",
      respostas: ["HTML","Python","C++","PHP"],
      correta: "resp0"
+    },
+     //Pergunta 4
+    {
+     pergunta:"Como declarar uma variável em JavaScript ?",
+     respostas: ["$var","#let","@var","var"],
+     correta: "resp3"
+    },
+     //Pergunta 5
+    {
+     pergunta:"Qual o seletor de ID no CSS ?",
+     respostas: ["$","#","@","!"],
+     correta: "resp1"
+    },
+     //Pergunta 6
+    {
+     pergunta:"Qual o seletor de classe no CSS ?",
+     respostas: ["$","#","@","."],
+     correta: "resp3"
     },
 ];
 
